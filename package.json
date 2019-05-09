@@ -1,7 +1,7 @@
 {
-  "name": "deepspeech-nodejs_wav",
+  "name": "speech-to-text-app",
   "version": "1.0.0",
-  "description": "Simple audio processing",
+  "description": "Simple speech to text service",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js"
